@@ -12,8 +12,7 @@ Blood Bank Donation System is a php based web project with both admin and user l
 
 OR follow gitbash commands
 
-    i>cd C:\\xampp\htdocs\
-   ii>git clone https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git
+    i>cd C:\\xampp\htdocs
 
 4.Extract files in C:\xampp\htdocs.
 
